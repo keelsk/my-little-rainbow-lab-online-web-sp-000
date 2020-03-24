@@ -45,7 +45,7 @@ div * {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-#red {
+#green {
   border: 20px solid #f00; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
@@ -57,7 +57,7 @@ div * {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 #blue {
-  border: 20px solid #f00; /* this is short hand for setting
+  border: 20px solid #06f; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
   min-width: 20em; /* the two min styles make the shape */
